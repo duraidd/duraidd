@@ -1,6 +1,6 @@
 ## Hello, I'm [Durai Essakimuthu!](https://duraidd.github.io/myprofile/) 👋
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=duraidd&label=Views&color=blue&style=plastic" alt="duraidd" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=duraidd&label=Views&color=blue&style=plastic" alt="duraidd" /> </p>
 
 <!-- [![Twitter: Ganesh_jdev](https://img.shields.io/twitter/follow/Ganesh_jdev?style=social)](https://twitter.com/Ganesh_jdev) -->
 [![Linkedin: duraidd](https://img.shields.io/badge/durai-dd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/durai-dd/)](https://www.linkedin.com/in/durai-dd/)
