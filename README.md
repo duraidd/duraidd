@@ -28,4 +28,4 @@
 </a> -->
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://user-images.githubusercontent.com/51211116/152750260-19bbc6ed-191b-4c36-a498-23066ceb9f66.svg" />
-<marquee direction="down" height="100" width="200" bgcolor="white">Scrolling text</marquee>
+<marquee direction="right" height="100" width="200" bgcolor="white">Scrolling text</marquee>
